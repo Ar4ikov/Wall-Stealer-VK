@@ -8,7 +8,7 @@
 ```bash
 pip install vk
 ```
-- ##Access Token от вашей страницы Вконтакте
+- Access Token от вашей страницы Вконтакте
 
 Чтобы получить Access Token, перейдите по ссылке:
 ```
@@ -20,7 +20,7 @@ https://vk.cc/6F50X4
 https://oauth.vk.com/blank.html#access_token=ваш_токен&expires_in=0&user_id=ваш_айди_страницы
 ```
 
-##Всё нужное можно получить при включении скрипта
+## Всё нужное можно получить при включении скрипта
 ```bash
 python3.5 stealer.py
 ``` 
