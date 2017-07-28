@@ -12,7 +12,7 @@ pip install vk
 
 Чтобы получить Access Token, перейдите по ссылке:
 ```
-https://vk.cc/6F50X4
+https://vk.cc/6VP0Qh
 ```
 
 При получении Access Token вы получите ссылку вида:
@@ -22,10 +22,10 @@ https://oauth.vk.com/blank.html#access_token=ваш_токен&expires_in=0&user
 
 ## Всё нужное можно получить при включении скрипта
 ```bash
-python3.5 stealer.py
+python3.5 ws.py
 ``` 
 или 
 ```bash
-python stealer.py
+python ws.py
 ```
 если на компьютере установлен только Python версии 3.5
